@@ -1,0 +1,15 @@
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\bin\Debug\net6.0\JContrerasAddingTwoNumbers.exe
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\bin\Debug\net6.0\JContrerasAddingTwoNumbers.deps.json
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\bin\Debug\net6.0\JContrerasAddingTwoNumbers.runtimeconfig.json
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\bin\Debug\net6.0\JContrerasAddingTwoNumbers.dll
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\bin\Debug\net6.0\ref\JContrerasAddingTwoNumbers.dll
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\bin\Debug\net6.0\JContrerasAddingTwoNumbers.pdb
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.AssemblyInfo.cs
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.dll
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\ref\JContrerasAddingTwoNumbers.dll
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.pdb
+C:\Users\Jovan\GitHub\JContrerasAddingTwoNumbers\obj\Debug\net6.0\JContrerasAddingTwoNumbers.genruntimeconfig.cache
