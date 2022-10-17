@@ -2,8 +2,11 @@
 //Date 10/17/2022
 //Getting to integers and adding them together with data validation.
 
+
+int result;
+int num1 = 0;
+int num2 = 0;
 Console.WriteLine("Welcome to Adding Two Numbers Together!!");
-int num1;
 bool n1 = false;
 while (!n1)
 {
@@ -22,7 +25,7 @@ while (!n1)
 
 }
 
-int num2;
+
 bool n2 = false;
 while (!n2)
 {
@@ -38,5 +41,7 @@ while (!n2)
     {
         Console.WriteLine("Not a number");
     }
-
 }
+
+result = num1 + num2;
+Console.WriteLine($"Answer: {result}");
