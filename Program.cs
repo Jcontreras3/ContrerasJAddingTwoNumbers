@@ -72,7 +72,7 @@ while (playAgain == "yes")
         }
         else
         {
-            Console.WriteLine("Invalid Input");
+            Console.WriteLine("Invalid input please type in Yes or No");
             playAgainInput = "invalid";
         }
 
