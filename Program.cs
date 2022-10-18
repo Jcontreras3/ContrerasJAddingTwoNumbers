@@ -54,7 +54,7 @@ while (playAgain == "yes")
 
     Console.WriteLine("Would you like to try again? type in Yes to retry or No to quit");
 
-    string playAgainInput = "Nothing";
+    string playAgainInput = "asdf";
     
     while (playAgainInput != "yes" || playAgainInput != "no")
     {
